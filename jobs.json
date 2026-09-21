@@ -113,4 +113,5 @@
   {"title": "AI Engineer", "company": "Tech Mahindra", "location": "Noida", "salary": "10-18 LPA", "skills": ["Python", "Machine Learning", "Deep Learning", "Computer Vision", "OpenCV", "TensorFlow"]},
   {"title": "AI Engineer", "company": "Oracle", "location": "Gurgaon", "salary": "12-20 LPA", "skills": ["Python", "Machine Learning", "Recommendation Systems", "Deep Learning", "Spark", "TensorFlow"]},
   {"title": "AI Engineer", "company": "Adobe", "location": "Kolkata", "salary": "14-22 LPA", "skills": ["Python", "Machine Learning", "NLP", "Deep Learning", "PyTorch", "MLOps"]}
+]
   
